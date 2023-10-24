@@ -7,7 +7,7 @@ package teamhomework;
 import java.util.*;
 import teamhomework.Teams.TeamNameGenerator;
  
- // https://github.com/RenatoCarvalho2022350/TeamHomeWork  link for gitHub
+ // https://github.com/RenatoCarvalho2022350/TeamHomeWork01  link for gitHub
 
 /**
  *
